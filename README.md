@@ -30,7 +30,7 @@ https://www.kaggle.com/datasets/sahilislam007/ai-impact-on-job-market-20242030
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter / VS Code
 - Google Slides
-- **ChatGPT (used as a support tool for brainstorming, debugging, and refining explanations)**
+- ChatGPT (used as a support tool for brainstorming, debugging, and refining explanations)
 
 ## Author
 Audrey Stelle
