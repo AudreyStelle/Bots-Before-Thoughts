@@ -20,16 +20,5 @@ The goal of this project is to communicate an interesting pattern in the data th
   Poster-style visualization designed to communicate findings to a general audience.
 
 - **Storyboard Images**  
-  Early sketches used to plan the infographic layout and narrative.
+  Early sketches used to plan the infographic layout and narra
 
-## Data Source
-The dataset was obtained from Kaggle:  
-https://www.kaggle.com/datasets/sahilislam007/ai-impact-on-job-market-20242030
-
-## Tools Used
-- Python (Pandas, Matplotlib, Seaborn)
-- Jupyter / VS Code
-- Google Slides
-
-## Author
-Audrey Stelle
